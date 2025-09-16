@@ -11,7 +11,7 @@ createRoot(document.getElementById("root")!).render(
     {/* <ListUser></ListUser>
     <GetAllProduct></GetAllProduct>
     <GetAllStudent></GetAllStudent> */}
-    <Header07></Header07>
-    <Table07></Table07>
+{/*     <Header07></Header07>
+    <Table07></Table07> */}
   </StrictMode>
 );
